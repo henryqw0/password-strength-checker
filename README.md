@@ -123,4 +123,4 @@ Password too short, Add uppercase, Add number, Add special character
 
 ## License
 
-You can add a license for this project if needed, such as the MIT License.
+This project is licensed under the MIT License.
