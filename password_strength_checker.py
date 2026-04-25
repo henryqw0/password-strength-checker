@@ -1,7 +1,6 @@
 import gradio as gr
 import re
 
-
 def check_password(password):
     score = 0
     feedback = []
